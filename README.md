@@ -8,7 +8,7 @@ Instructions:
 sudo apt update -y
 sudo apt install git -y
 sudo apt install python3 -y
-sudo git clone https://www.github.com/nathantle/cpscpts
-cd cpscpts/linux
+sudo git clone https://github.com/DuckDogYT/cpscptsMINT
+cd cpscptsMINT/linux
 sudo python3 secure_linux.py
 Package manager: APT
